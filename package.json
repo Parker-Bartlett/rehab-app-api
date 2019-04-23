@@ -1,0 +1,23 @@
+{
+  "name": "rehab-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parker-Bartlett/rehab-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parker-Bartlett/rehab-app-api/issues"
+  },
+  "homepage": "https://github.com/Parker-Bartlett/rehab-app-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
